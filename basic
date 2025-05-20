@@ -1,1 +1,6 @@
+pre req:
+node js
+node js path in system variable
 
+--creating new node project and dependencies, skeleton 
+npm init playwright  
